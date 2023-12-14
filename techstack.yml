@@ -1,11 +1,11 @@
 repo_name: adamdjbrett/thenandnow-backup
-report_id: c0684dfd374492fb11eca297b5ff924c
+report_id: d513db022881b7fd6f33e2e61b846fe3
 repo_type: Public
-timestamp: '2023-11-15T03:24:32+00:00'
+timestamp: '2023-12-14T10:40:56+00:00'
 requested_by: adamdjbrett
 provider: github
 branch: master
-detected_tools_count: 1
+detected_tools_count: 2
 tools:
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -16,3 +16,12 @@ tools:
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
   detection_source: Repo Metadata
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source: index.html
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-04-29 05:29:14.000000000 Z
