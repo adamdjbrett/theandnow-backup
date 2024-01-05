@@ -1,7 +1,8 @@
 repo_name: adamdjbrett/thenandnow-backup
-report_id: d513db022881b7fd6f33e2e61b846fe3
+report_id: c0684dfd374492fb11eca297b5ff924c
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T10:40:56+00:00'
+timestamp: '2024-01-05T08:42:45+00:00'
 requested_by: adamdjbrett
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/adamdjbrett/thenandnow-backup
   detection_source: Repo Metadata
 - name: HTML
   description: Hypertext Markup Language for creating web pages.
@@ -22,6 +24,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/adamdjbrett/thenandnow-backup/blob/master/index.html
   detection_source: index.html
   last_updated_by: adamdjbrett
   last_updated_on: 2020-04-29 05:29:14.000000000 Z
